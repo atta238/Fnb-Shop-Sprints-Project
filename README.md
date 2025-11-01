@@ -35,19 +35,6 @@ This project is a simple, static online shop for Food & Beverage products. It in
 
 ---
 
-## 📂 File Structure
-/fnb-shop
-│── /assets
-│ ├── /images
-│ └── /icons
-│── /css
-│ └── style.css
-│── index.html
-│── products.html
-│── about.html
-│── contact.html
----
-
 ## ✅ Features
 ✔ Semantic HTML5 structure  
 ✔ Fully responsive design  
