@@ -49,5 +49,4 @@ This project is a simple, static online shop for Food & Beverage products. It in
 ## 👨‍💻 Author
 - *Ahmed Mohamed Ahmed Atta*
 - [GitHub Profile](https://github.com/atta238)
-Developed as part of **SprintUP - Web Fundamentals Graduation Project** 
-
+- Developed as part of **SprintUP - Web Fundamentals Graduation Project** 
