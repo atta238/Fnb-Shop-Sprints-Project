@@ -20,7 +20,6 @@ This project is a simple, static online shop for Food & Beverage products. It in
 ## 🛠️ Built With
 - HTML5
 - CSS3
-- JavaScript
 - Bootstrap 5
 
 ---
